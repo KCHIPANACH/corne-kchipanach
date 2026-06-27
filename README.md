@@ -114,7 +114,7 @@ códigos a español: la **ñ sale sola** en la tecla `KC_SCLN`.
 
 🇵🇪 Mi distribución **LatinoPer** y cómo instalarla están en [macos-latinoper/](macos-latinoper/).
 
-📋 **Tu distribución de teclas completa, para verla sin abrir Vial:** [keymap.txt](keymap.txt).
+📋 **Distribución de teclas completa, para verla sin abrir Vial:** [keymap.txt](keymap.txt).
 
 Capas: `BASE` (0), `NAV` (1), `SYM` (2), `NUM` (3), `ADJUST` (4, tri-layer SYM+NUM).
 
